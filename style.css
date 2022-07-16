@@ -12,7 +12,7 @@ body
     margin: 100px auto 100px auto;
     background-image: url("images/bg-desktop.svg");
     background-repeat: no-repeat;
-    background-size: 103%;
+    background-size: cover;
     background-position: 70% 90%;
     text-align: center;
     width: 94%;
