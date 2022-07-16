@@ -1,0 +1,105 @@
+body
+{
+    text-align: center;
+    margin: 0;
+    
+    
+   
+}
+.chanll
+{   position: relative;
+    background-color: hsl(257, 40%, 49%);
+    margin: 100px auto 100px auto;
+    background-image: url("images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: 103%;
+    background-position: 70% 90%;
+    text-align: center;
+    width: 94%;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    
+    
+
+
+
+}
+
+h1
+{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  
+}
+p
+{
+   color: white;
+   font-family: 'Open Sans', sans-serif;
+   
+}
+
+.tables
+{
+  width: 50%;
+  float: left;
+  margin-right: 40px;
+  margin-left: 5%;
+  bottom: 100px;
+  position: relative;
+
+}
+.text
+{
+  display: inline-block;
+  text-align: left;
+  line-height: 1.5; 
+  position: relative;
+  bottom: 72px;
+  width: 36%;
+  right: 25px;
+
+}
+.btn {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  height: 20px;
+  line-height: 24px;
+  color: #DF0DC8;
+  font-family: Arial;
+  width: 141px;
+  font-size: 24px;
+  font-weight: 500;
+  padding: 14px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #DF0DC8;
+  color: white;
+  border: solid #C850E1 0;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+
+}
+.logo
+{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+.footer-link
+{
+  
+  position: absolute;
+  padding: 30px;
+  bottom: 3%;
+  right: 5%;
+  width: 3%;
+}
